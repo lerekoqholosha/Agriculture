@@ -39,7 +39,6 @@
 
 #### Deployment is done using [deploy](https://github.com/Agriculture/Agri-Tech/tree/deploy) branch
 #### This website is deployed at [Heroku](https://www.heroku.com/)
-#### You can access it [here](https://Agric-Tech.herokuapp.com/)
 #### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
 
 ## How to use 💻
