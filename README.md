@@ -1,4 +1,4 @@
-# HARVESTIFY 🌿
+# Agri-Tech 🌿
 #### A simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
 
 ## MOTIVATION 💪
@@ -110,8 +110,12 @@ Note that, for now it only supports following crops
 ## Contribute 👨‍💻
 Please read [CONTRIBUTING.md](https://github.com/Gladiator07/Harvestify/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Usage ⚙️
-You can use this project for further developing it and adding your work in it. If you use this project, kindly mention the original source of the project and mention the link of this repo in your report.
+## What Next
+The Project it's still under developemnt we are still collecting more data.
+we are hoping to improve the algorithm by next month.
+
+## Credit ⚙️
+Credit for krish haverstify-link(haverstify.herokuapp.com)
 ## License 📝
 This project is licensed under [GNU (GENERAL PUBLIC LICENSE)](https://github.com/Gladiator07/Harvestify/blob/master/LICENSE).
 
